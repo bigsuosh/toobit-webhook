@@ -1,0 +1,18 @@
+2025-07-09 22:10:09 - موجودی حساب کافی نیست
+2025-07-09 22:10:45 - اطلاعات ناقص: signal، symbol، price، یا مقدار (buy_qty/close_qty) ارائه نشده است
+2025-07-09 22:21:09 - اطلاعات ناقص: signal، symbol، price، یا مقدار (buy_qty/close_qty) ارائه نشده است
+2025-07-09 22:27:51 - خطا در پردازش وب‌هوک: Invalid format specifier '.2f if account_balance is not None else 'نامشخص'' for object of type 'float'
+2025-07-09 22:28:44 - خطا در پردازش وب‌هوک: Invalid format specifier '.2f if account_balance is not None else 'نامشخص'' for object of type 'float'
+2025-07-09 22:41:31 - موجودی حساب کافی نیست
+2025-07-09 22:41:31 - خطا در پردازش وب‌هوک: cannot access local variable 'side' where it is not associated with a value
+2025-07-09 22:42:07 - موجودی حساب کافی نیست
+2025-07-09 22:42:07 - خطا در پردازش وب‌هوک: cannot access local variable 'side' where it is not associated with a value
+2025-07-09 22:42:14 - موجودی حساب کافی نیست
+2025-07-09 22:42:14 - خطا در پردازش وب‌هوک: cannot access local variable 'side' where it is not associated with a value
+2025-07-09 22:52:14 - موجودی حساب کافی نیست
+2025-07-09 22:52:14 - خطا در پردازش وب‌هوک: cannot access local variable 'side' where it is not associated with a value
+2025-07-09 23:07:04 - موجودی حساب کافی نیست
+2025-07-09 23:07:21 - موجودی حساب کافی نیست
+2025-07-09 23:13:40 - موجودی حساب کافی نیست
+2025-07-09 23:14:11 - موجودی حساب کافی نیست
+2025-07-09 23:15:10 - موجودی حساب کافی نیست
